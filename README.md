@@ -1,5 +1,3 @@
----
-
 ### **1. Install Node.js**
 1. Download Node.js from the [official website](https://nodejs.org/).
 2. Install the appropriate version for your operating system.
