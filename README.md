@@ -1,5 +1,3 @@
-Here’s the combined and detailed explanation for setting up a Node.js project with the suggested structure:
-
 ---
 
 ### **1. Install Node.js**
